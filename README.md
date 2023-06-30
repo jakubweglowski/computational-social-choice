@@ -7,4 +7,4 @@ This is a file containing all of the functions, basing on which I wrote my thesi
 
 # Files calles "qqplots"
 
-These are .zip file containing all quantile-quantile plots, some of which I put into my thesis.
+These are .zip files containing all quantile-quantile plots, some of which I put into my thesis.
